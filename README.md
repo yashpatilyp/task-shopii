@@ -1,9 +1,9 @@
 # E-Commerce App 🛒
 
-This is a React-based e-commerce web application with Firebase authentication and a cart system. Users can browse products, add them to their cart, and proceed to checkout.  
+This is a React-based e-commerce web application with Firebase authentication and a cart system. Users can browse products,filter, add them to their cart, and proceed to checkout.  
 
 ## Features  
-- User authentication (Firebase)  
+- User authentication (Firebase) with protected routes .
 - Product listing with search functionality  
 - Add/remove items from the cart  
 - Responsive design using react bootstrap  
@@ -13,10 +13,15 @@ This is a React-based e-commerce web application with Firebase authentication an
 ## Setup Instructions  
 1. Clone the repository:  
   
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/yashpatilyp/task-shopii.git
 
-   cd your-repo
+ 
    
    Install dependencies: npm install
 
    Start the app: npm start
+
+
+   deployed link :
+
+          https://task-shopii.vercel.app/
